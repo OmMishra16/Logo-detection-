@@ -86,3 +86,23 @@ logo_detection_pipeline/
 ├── demo_video.mp4
 └── detections.json
 ```
+### Output Format 
+
+```
+{
+    "Pepsi_pts": [
+        {
+            "timestamp": 7.6,
+            "size": 11336.6494140625,
+            "distance_from_center": 347.8847353111372
+        }
+],
+"CocaCola_pts": [
+        {
+            "timestamp": 1.2,
+            "size": 245788.453125,
+            "distance_from_center": 58.005440292403826
+        }
+]
+
+```
