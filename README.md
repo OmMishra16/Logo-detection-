@@ -40,21 +40,7 @@ This project uses a YOLOv8 model to detect Pepsi and CocaCola logos in video fil
     pip install -r requirements.txt
     ```
 
-4. **Install FFmpeg and libav (if not already installed):**
 
-    - On macOS:
-
-        ```bash
-        brew install ffmpeg
-        brew install libav
-        ```
-
-    - On Ubuntu:
-
-        ```bash
-        sudo apt update
-        sudo apt install ffmpeg libavcodec-extra
-        ```
 
 ## Usage
 
