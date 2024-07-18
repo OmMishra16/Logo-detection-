@@ -104,5 +104,5 @@ logo_detection_pipeline/
             "distance_from_center": 58.005440292403826
         }
 ]
-
+}
 ```
