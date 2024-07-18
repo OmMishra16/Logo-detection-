@@ -9,7 +9,7 @@ This project uses a YOLOv8 model to detect Pepsi and CocaCola logos in video fil
 - [Directory Structure](#directory-structure)
 - [Output Format](#output-format)
 - [Demo Video](#demo-video)
-- [License](#license)
+
 
 ## Installation
 
