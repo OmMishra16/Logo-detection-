@@ -72,3 +72,17 @@ This project uses a YOLOv8 model to detect Pepsi and CocaCola logos in video fil
 
 ```bash
 python3 logo_detection.py --video_path /path/to/your/demo_video.mp4 --output_file /path/to/your/detections.json --output_video_path /path/to/your/annotated_video.mp4
+
+```
+
+### Directory Structure
+```
+logo_detection_pipeline/
+├── README.md
+├── requirements.txt
+├── logo_detection.py
+├── model/
+│   └── best.pt
+├── demo_video.mp4
+└── detections.json
+```
