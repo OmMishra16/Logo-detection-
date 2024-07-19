@@ -63,6 +63,7 @@ This project uses a YOLOv8 model to detect Pepsi and CocaCola logos in video fil
 1. **Ensure the video file (`demo_video.mp4`) and the trained model file (`best.pt`) are in the correct locations:**
     - Place your input video file in the project directory or update the path accordingly in the script arguments.
     - Ensure `best.pt` is in the `model` directory.
+    - Create detections.json and make sure to upgrade file path of video file and detections.json file in logo_detection.py file
 
 2. **Example Command to Run the script from the terminal:**
 
